@@ -10,4 +10,4 @@ class VersionControl{
             return version;
         }
 
-}
+};
